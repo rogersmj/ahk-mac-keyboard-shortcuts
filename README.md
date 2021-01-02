@@ -28,7 +28,7 @@ If you have suggestions for shortcuts that should be included, open an issue.
 | New tab                  | Windows + t                   | Ctrl + t                  |                                            |
 | Close tab                | Windows + w                   | Ctrl + w                  |                                            |
 | Undo close tab           | Windows + Shift + t           | Ctrl + Shift + t          |                                            |
-| Refresh                  | Windows + r                   | Ctrl + r          |                                            |
+| Refresh                  | Windows + r                   | Ctrl + r                  |                                            |
 | Select all               | Windows + a                   | Ctrl + a                  |                                            |
 | Home                     | Windows + Left arrow          | Home                      |                                            |
 | End                      | Windows + Right arrow         | End                       |                                            |
@@ -42,4 +42,5 @@ If you have suggestions for shortcuts that should be included, open an issue.
 | Italics                  | Windows + i                   | Ctrl + i                  |                                            |
 | Underline                | Windows + u                   | Ctrl + u                  |                                            |
 | Hyperlink                | Windows + k                   | Ctrl + k                  |                                            |
+| Linebreak/Send           | Windows + Enter               | Ctrl + Enter              |                                            |
 | 1Password browser plugin | Windows + \                   | Ctrl + \                  |                                            |
