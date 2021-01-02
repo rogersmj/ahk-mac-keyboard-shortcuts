@@ -12,6 +12,9 @@ For example, `Windows + C` will copy to clipboard, `Windows + V` will paste, `Wi
 ## Known issues
 Certain Windows keyboard shortcuts cannot be "intercepted" by AHK (or at least, I haven't figured out how to do it yet). For these, the remapped functionality in this script will work, but the default Windows behavior will __also__ fire. One example is `Windows + G` which brings up the Windows Game Bar by default; we instead want this key combo to perform `Ctrl + G` for the __Find next__ functionality in web browsers. To prevent the Game Bar from showing up when you use `Windows + G`, you have to go to the Game Bar Shortcuts in Windows settings and turn off the game bar. **If you find more examples like this, please file an issue in GitHub so I can add it to the docs.**
 
+## Suggestions
+If you have suggestions for shortcuts that should be included, open an issue.
+
 ## Shortcuts
 | Command                  | Shortcut (Mac style)          | Mapped to (Windows style) | Notes                                      |
 |--------------------------|-------------------------------|---------------------------|--------------------------------------------|

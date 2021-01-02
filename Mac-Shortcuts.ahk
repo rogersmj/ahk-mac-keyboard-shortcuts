@@ -105,6 +105,11 @@ Return
 Send, ^k
 Return
 
+; Send/line break
+#Enter::
+Send, ^{Enter}
+Return
+
 ; 1Password browser shortcut
 #\::
 Send, ^\
