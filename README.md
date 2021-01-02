@@ -1,6 +1,6 @@
 # Mac Keyboard Shortcuts for Windows 10 (AutoHotKey)
 
-This is an [AutoHotKey](https://www.autohotkey.com/) script designed to make keyboard shortcuts in Windows 10 more like MacOS. It is intended to make it easier for people who frequently jump between Windows and MacOS, and who prefer Mac-style keyboard shortcuts.
+This is an [AutoHotKey](https://www.autohotkey.com/) script designed to make keyboard shortcuts in Windows 10 more like MacOS. It is intended to make life easier for people who frequently jump between Windows and MacOS, and who prefer Mac-style keyboard shortcuts.
 
 For example, `Windows + C` will copy to clipboard, `Windows + V` will paste, `Windows + →` will jump to the end of a line, etc. The original Windows shortcuts (e.g. `Ctrl + C`) still work.
 
@@ -25,6 +25,7 @@ Certain Windows keyboard shortcuts cannot be "intercepted" by AHK (or at least, 
 | New tab                  | Windows + t                   | Ctrl + t                  |                                            |
 | Close tab                | Windows + w                   | Ctrl + w                  |                                            |
 | Undo close tab           | Windows + Shift + t           | Ctrl + Shift + t          |                                            |
+| Refresh                  | Windows + r                   | Ctrl + r          |                                            |
 | Select all               | Windows + a                   | Ctrl + a                  |                                            |
 | Home                     | Windows + Left arrow          | Home                      |                                            |
 | End                      | Windows + Right arrow         | End                       |                                            |

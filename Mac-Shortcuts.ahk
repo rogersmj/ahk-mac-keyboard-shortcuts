@@ -43,6 +43,10 @@ Return
 Send, ^+t
 Return
 
+#r::
+Send, ^r
+Return
+
 ; Select all
 #a::
 Send, ^a
