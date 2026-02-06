@@ -44,3 +44,24 @@ If you have suggestions for shortcuts that should be included, open an issue.
 | Hyperlink                | Windows + k                   | Ctrl + k                  |                                            |
 | Linebreak/Send           | Windows + Enter               | Ctrl + Enter              |                                            |
 | 1Password browser plugin | Windows + \                   | Ctrl + \                  |                                            |
+| Delete line to the left  | Windows + Backspace           | Shift + Home, Backspace   |                                            |
+| Delete word to the left  | Alt + Backspace               | Ctrl + Backspace          |                                            |
+| Delete word to the right | Alt + Delete                  | Ctrl + Delete             |                                            |
+| Move left by word        | Alt + Left arrow              | Ctrl + Left arrow         |                                            |
+| Move right by word       | Alt + Right arrow             | Ctrl + Right arrow        |                                            |
+| Select left by word      | Alt + Shift + Left arrow      | Ctrl + Shift + Left arrow |                                            |
+| Select right by word     | Alt + Shift + Right arrow     | Ctrl + Shift + Right arrow|                                            |
+| Go to top of document    | Windows + Up arrow            | Ctrl + Home               |                                            |
+| Go to end of document    | Windows + Down arrow          | Ctrl + End                |                                            |
+| Select to top of document| Windows + Shift + Up arrow    | Ctrl + Shift + Home       |                                            |
+| Select to end of document| Windows + Shift + Down arrow  | Ctrl + Shift + End        |                                            |
+| Close window/app         | Windows + q                   | Alt + F4                  |                                            |
+| Minimize window          | Windows + m                   | Windows + Down arrow      |                                            |
+| Switch apps              | Windows + Tab                 | Alt + Tab                 |                                            |
+| Address bar              | Windows + l                   | Ctrl + l                  |                                            |
+| Next tab                 | Windows + Alt + Right arrow   | Ctrl + Tab                |                                            |
+| Previous tab             | Windows + Alt + Left arrow    | Ctrl + Shift + Tab        |                                            |
+| Spotlight/Search         | Windows + Space               | Windows + s               |                                            |
+| Print                    | Windows + p                   | Ctrl + p                  |                                            |
+| Force quit               | Windows + Shift + q           | Alt + F4                  |                                            |
+| Cmd + Click              | Windows + Left Click          | Ctrl + Click              | Multi-select, open links in new tabs       |
